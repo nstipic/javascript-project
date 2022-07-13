@@ -1,1 +1,1 @@
-console.log('test radi');
+alert('testiranje fajla');
